@@ -1,2 +1,3 @@
 I have create my first repo
 with command line
+configure with github
